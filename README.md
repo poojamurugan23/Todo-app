@@ -1,26 +1,97 @@
-# 📝 Todo List Application
+# 📝 Todo List Web Application
 
-A simple and interactive **Todo List Web Application** built using **HTML, CSS, and JavaScript**.  
-This project helps users manage daily tasks efficiently by allowing them to add, mark, and delete tasks.
+A simple and efficient web-based Todo List application that helps users organize daily tasks.
+The project is designed with a clean user interface and focuses on core JavaScript concepts.
 
 ---
 
-## 🚀 Features
+📌 Project Overview
+
+This application allows users to add, complete, and delete tasks in a structured manner.
+It is lightweight, beginner-friendly, and suitable for academic and portfolio use.
+
+🔗 Live Demo: https://your-username.github.io/todo-app/
+
+---
+
+🎨 Clean UI
+
+- Simple and attractive design
+- User-friendly layout
+  
+
+
+📱 Responsive Design
+
+- Works smoothly on desktop and mobile devices
+
+
+
+⚡ Lightweight
+
+- No frameworks or libraries used
+- Fast and easy to understand
+  
+---
+
+ ✨ Features
 
 - ➕ Add new tasks
-- ✅ Mark tasks as completed
-- 🗑️ Delete tasks
-- 🎨 Clean and responsive user interface
-- ⚡ Fast and lightweight (no frameworks)
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks from the list
+- 🎨 Clean and minimal user interface
+- 📱 Responsive design for different screen sizes
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the application  
-- **CSS3** – Styling and layout  
-- **JavaScript (Vanilla JS)** – Functionality and logic  
+- 🌐 **HTML5** – Application structure
+- 🎨 **CSS3** – Styling and responsiveness
+- ⚙️ **JavaScript** – Logic and interactivity
 
 ---
 
-## 📂 Project Structure
+## 📂 Folder Structure
+todo-app/
+
+├── index.html # Main HTML file
+
+├── style.css # Styling file
+
+├── script.js # JavaScript logic
+
+├── edit.svg # Edit icon
+
+└── delete.svg # Delete icon
+
+
+💻 How to Run the Project
+
+1. Download or clone the repository
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
+   
+2. Open the project folder
+
+3. Open index.html in any web browser
+   
+---
+
+🎯 Use Case
+
+- Personal task tracking
+
+- Beginner JavaScript practice project
+
+---
+
+## 👩‍💻 Developer
+
+**Pooja**
+
+🌐 GitHub: https://github.com/poojamurugan23
+
+💼 LinkedIn: https://www.linkedin.com/in/poojaa23
+
+---

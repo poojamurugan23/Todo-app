@@ -88,7 +88,7 @@ todo-app/
 
 ## 👩‍💻 Developer
 
-**Pooja**
+**Pooja M**
 
 🌐 GitHub: https://github.com/poojamurugan23
 

@@ -10,7 +10,7 @@ The project is designed with a clean user interface and focuses on core JavaScri
 This application allows users to add, complete, and delete tasks in a structured manner.
 It is lightweight, beginner-friendly, and suitable for academic and portfolio use.
 
-🔗 Live Demo: https://your-username.github.io/todo-app/
+🔗 Live Demo: https://easy-task-todo-list.netlify.app/
 
 ---
 
